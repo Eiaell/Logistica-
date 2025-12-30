@@ -1,37 +1,39 @@
-# Decision Log - Logistics Decision-Centric System
+# Registro de Decisiones - Sistema Logístico Centrado en Decisiones
 
-**Project**: Context-Centric System of Record for High-Complexity Logistics
-**Repository**: https://github.com/Eiaell/Logistica-
-**Inception Date**: 2025-12-30
-**Architect Role**: Senior Strategic Architect & Heuristic Engineer
-
----
-
-## Mission Statement
-
-This document serves as the **authoritative artifact** of business logic extraction. We are shifting from a traditional Data-Centric ERP model to a **Decision-Centric System** that captures:
-
-1. **Decision Trace**: The "Why" behind every operational choice
-2. **Context Graph**: How variables (infrastructure, human behavior, technical debt, external signals) interact
-3. **Heuristic Truth**: The non-obvious rules, exceptions, and glue functions that humans perform when software fails to model reality
+**Proyecto**: Sistema de Registro Centrado en Contexto para Logística de Alta Complejidad
+**Repositorio**: https://github.com/Eiaell/Logistica-
+**Fecha de Inicio**: 2025-12-30
+**Contexto**: Operación Logística en Perú
+**Rol**: Arquitecto Estratégico Senior e Ingeniero de Heurísticas
 
 ---
 
-## Protocol: Mayeutic Extraction
+## Declaración de Misión
 
-This log follows a Socratic interview methodology focused on:
-- **Ghost Variables**: Hidden signals treated as "noise" by current systems
-- **Domino Effect Heuristics**: Opportunity cost calculations for exceptions
-- **Systemic Friction**: Points where humans override/circumvent systems
-- **Glue Functions**: Where users bridge organizational silos
+Este documento sirve como el **artefacto autoritativo** de la extracción de lógica de negocio. Estamos cambiando de un modelo ERP tradicional centrado en datos a un **Sistema Centrado en Decisiones** que captura:
+
+1. **Trazabilidad de Decisiones**: El "Por qué" detrás de cada elección operacional
+2. **Grafo de Contexto**: Cómo interactúan las variables (infraestructura, comportamiento humano, deuda técnica, señales externas)
+3. **Verdad Heurística**: Las reglas no obvias, excepciones y funciones puente que los humanos ejecutan cuando el software falla en modelar la realidad
 
 ---
 
-## Interview Sessions
+## Protocolo: Extracción Mayéutica
 
-### Session 1: Initial Context Mapping
-**Date**: 2025-12-30
-**Status**: In Progress
+Este registro sigue una metodología de entrevista socrática enfocada en:
+- **Variables Fantasma**: Señales ocultas tratadas como "ruido" por los sistemas actuales
+- **Heurísticas de Efecto Dominó**: Cálculos de costo de oportunidad para excepciones
+- **Fricción Sistémica**: Puntos donde los humanos anulan/evitan los sistemas
+- **Funciones Puente**: Donde los usuarios conectan silos organizacionales
+
+---
+
+## Sesiones de Entrevista
+
+### Sesión 1: Mapeo de Contexto Inicial
+**Fecha**: 2025-12-30
+**Status**: En Progreso
+**Contexto Geográfico**: Perú
 
 ---
 

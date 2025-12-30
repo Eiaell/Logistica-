@@ -1,23 +1,24 @@
-# Logística - Decision-Centric System of Record
+# Logística - Sistema de Registro Centrado en Decisiones
 
-**Status**: Requirements Extraction Phase
-**Architecture**: Context-Centric, Decision-First
+**Estado**: Fase de Extracción de Requerimientos
+**Arquitectura**: Centrada en Contexto, Decisiones Primero
+**Operación**: Perú
 
-## Repository Structure
+## Estructura del Repositorio
 
 ```
-/DECISION_LOG.md    - Living record of business logic extraction interviews
-/SPEC.md            - Product Requirements Document (PRD) - Generated post-saturation
-/docs/              - Technical documentation
-/src/               - Implementation (post-specification phase)
+/DECISION_LOG.md    - Registro vivo de entrevistas de extracción de lógica de negocio
+/SPEC.md            - Documento de Requerimientos de Producto (PRD) - Generado post-saturación
+/docs/              - Documentación técnica
+/src/               - Implementación (fase post-especificación)
 ```
 
-## Current Phase: Heuristic Archaeology
+## Fase Actual: Arqueología Heurística
 
-We are currently in the **interview phase** - extracting the non-obvious decision heuristics, exception handling, and context-aware logic that constitute the true operating system of the logistics operation.
+Actualmente estamos en la **fase de entrevista** - extrayendo las heurísticas de decisión no obvias, manejo de excepciones y lógica consciente del contexto que constituyen el verdadero sistema operativo de la operación logística.
 
-**No implementation begins until decision lineage is established.**
+**No se inicia implementación hasta que la trazabilidad de decisiones esté establecida.**
 
 ---
 
-Refer to `DECISION_LOG.md` for the complete extraction process.
+Referirse a `DECISION_LOG.md` para el proceso completo de extracción.
